@@ -1,0 +1,9 @@
+C:\Users\Matteo\source\repos\USO\USO\bin\Debug\USO.exe.config
+C:\Users\Matteo\source\repos\USO\USO\bin\Debug\USO.exe
+C:\Users\Matteo\source\repos\USO\USO\bin\Debug\USO.pdb
+C:\Users\Matteo\source\repos\USO\USO\obj\Debug\USO.csproj.AssemblyReference.cache
+C:\Users\Matteo\source\repos\USO\USO\obj\Debug\USO.Properties.Resources.resources
+C:\Users\Matteo\source\repos\USO\USO\obj\Debug\USO.csproj.GenerateResource.cache
+C:\Users\Matteo\source\repos\USO\USO\obj\Debug\USO.csproj.CoreCompileInputs.cache
+C:\Users\Matteo\source\repos\USO\USO\obj\Debug\USO.exe
+C:\Users\Matteo\source\repos\USO\USO\obj\Debug\USO.pdb
